@@ -12,6 +12,7 @@ import com.sjw.mygreendao.greendaoopr.UpVersionOpenHelper;
  */
 
 public class MyApplication extends Application {
+    //升级版本的问题
     private UpVersionOpenHelper mHelper;
     private SQLiteDatabase db;
     private DaoMaster mDaoMaster;
